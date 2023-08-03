@@ -1,2 +1,2 @@
 # covenant2
-nequi
+Por favor validar el doc .word para leer proceso realizado
